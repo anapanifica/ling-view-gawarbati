@@ -1,0 +1,1 @@
+I had to install an old version of node.js (Node.js version 12.x, as indicated here https://github.com/BrownCLPS/LingView/wiki/Workflow), otherwise it didn't work.
