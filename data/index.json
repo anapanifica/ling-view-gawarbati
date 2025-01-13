@@ -102,5 +102,88 @@
         "tier": "C_phrase-txt-gwt-fonipa-x-emic"
       }
     }
+  },
+  "88491965-5c0f-429d-992d-d33cb06149b9": {
+    "timed": true,
+    "story ID": "88491965-5c0f-429d-992d-d33cb06149b9",
+    "title": {
+      "_default": "20211010-AfserBusinessStory"
+    },
+    "media": {
+      "audio": "20211010-AfserBusinessStory.mp3",
+      "video": ""
+    },
+    "languages": [],
+    "date_created": "",
+    "date_uploaded": "1/13/2025",
+    "source": {
+      "_default": ""
+    },
+    "description": "",
+    "genre": "",
+    "author": "",
+    "glosser": "",
+    "speakers": [
+      "Nasir",
+      "Afsar"
+    ],
+    "xml_file_name": "20211010-AfserBusinessStory.eaf",
+    "source_filetype": "ELAN",
+    "tier IDs": {
+      "A_morph-gls-en": {
+        "subdivided": false
+      },
+      "A_morph-txt-gwt-fonipa-x-emic": {
+        "subdivided": false
+      },
+      "A_phrase-gls-en": {
+        "subdivided": false
+      },
+      "A_phrase-txt-gwt-fonipa-x-emic": {
+        "subdivided": false
+      },
+      "A_word-txt-gwt-fonipa-x-emic": {
+        "subdivided": false
+      },
+      "B_morph-gls-en": {
+        "subdivided": false
+      },
+      "B_morph-txt-gwt-fonipa-x-emic": {
+        "subdivided": false
+      },
+      "B_phrase-gls-en": {
+        "subdivided": false
+      },
+      "B_phrase-txt-gwt-fonipa-x-emic": {
+        "subdivided": false
+      },
+      "B_word-txt-gwt-fonipa-x-emic": {
+        "subdivided": false
+      },
+      "A_word-is": {
+        "subdivided": false
+      },
+      "A_phase-wo": {
+        "subdivided": false
+      },
+      "B_word-is": {
+        "subdivided": false
+      },
+      "B_phrase-wo": {
+        "subdivided": false
+      }
+    },
+    "speaker IDs": {
+      "S1": {
+        "name": "Nasir",
+        "language": "gwt-fonipa-x-emic",
+        "tier": "A_phrase-txt-gwt-fonipa-x-emic"
+      },
+      "S2": {
+        "name": "Afsar",
+        "language": "gwt-fonipa-x-emic",
+        "tier": "B_phrase-txt-gwt-fonipa-x-emic"
+      }
+    }
   }
 }
